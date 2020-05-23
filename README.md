@@ -9,7 +9,7 @@ We intended to fullfill communication between normal people and hearing impaired
 We build 888 parallel corpus with Myanmar, Sign Language and SignWriting.
 
 
-Development and Support(Contributors)
+Development and Support (Contributors)
 -------------
 * Dr. Hnin Aye Thant<br/>
 * Dr. Ye Kyaw Thu<br/>
@@ -23,6 +23,6 @@ Acknowledgements
 We would like to thank principals, teachers, SL trainers and students of 
 
 * School for the Deaf (Mandalay), 
-* Mary Chapman Chapman School for the Deaf Children (Yangon) and 
-* School for the Deaf, Tarmwe (Yangon), 
+* Mary Chapman Chapman School for the Deaf Children (Yangon),
+* School for the Deaf, Tarmwe (Yangon) and
 * Myanmar Deaf Society and Literacy and Language Development for the Deaf.
