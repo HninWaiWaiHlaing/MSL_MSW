@@ -1,4 +1,4 @@
-# Statical Machine Translation between MWT and MSW
+# Statistical Machine Translation between MWT and MSW
  
 This is machine translation between <b>Myanmar written text and Myanmar SignWriting</b> during Master Thesis Period.
 
